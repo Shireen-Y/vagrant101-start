@@ -26,7 +26,7 @@
 
       sudo systemctl start nginx
 
-      #sudo apt-get install nodejs -y
+      sudo apt-get install nodejs -y
       curl -sL https://deb.nodesource.com/setup_6.x | sudo bash -
       sudo apt-get install -y nodejs
 
